@@ -18,3 +18,7 @@ li {
   text-align: center;
   list-style: none;
 }
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
